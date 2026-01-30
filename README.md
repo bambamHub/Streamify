@@ -18,7 +18,7 @@ Call Page ->
 
 
 🌟 Highlights
-
+```
 ✅ Real-time messaging with typing indicators & reactions
 ✅ 1-on-1 & group video calls (screen sharing + recording support)
 ✅ JWT authentication with protected routes
@@ -28,8 +28,10 @@ Call Page ->
 ✅ Zustand for global state + TanStack Query for API caching
 ✅ Clean backend architecture with Express + MongoDB
 ✅ Centralized error handling (Frontend + Backend)
+```
 
 🛠️ Tech Stack
+```
 ✅ Frontend
 
 React (Vite)
@@ -47,7 +49,8 @@ Stream Chat React UI (stream-chat-react)
 Stream Video SDK (@stream-io/video-react-sdk)
 
 React Router
-
+```
+```
 ✅ Backend
 
 Node.js + Express
@@ -65,7 +68,7 @@ dotenv
 cors
 
 Stream Chat SDK (stream-chat)
-
+```
 ---
 
 ```
