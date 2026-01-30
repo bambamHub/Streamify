@@ -1,7 +1,15 @@
-✨ Streamify — Real-Time Chat & Video Calling App 🚀
-<p align="center"> <b>A full-stack real-time messaging + video calling platform built using Stream, MERN, and modern React tooling.</b> </p> <p align="center"> 💬 Real-Time Chat • 🎥 Video Calls • 🔐 JWT Auth • 🎨 32 Themes • ⚡ Scalable Architecture </p>
+<h1 align="center">✨ Streamify — Real-Time Chat & Video Calling App 🚀</h1>
+
+<p align="center">
+  <b>A full-stack real-time messaging + video calling platform built using Stream, MERN, and modern React tooling.</b>
+</p>
+
+<p align="center">
+  💬 Real-Time Chat • 🎥 Video Calls • 🔐 JWT Auth • 🎨 32 Themes • ⚡ Scalable Architecture
+</p>
 
 Demo App->
+
 Login Page ->
 <img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/6105077b-fd76-480c-ba0b-d7026d79e63b" />
 
@@ -177,26 +185,6 @@ Responsive layout for all screens
 
 Clean modern design
 
-🧠 What Makes This Project Interview-Ready?
-
-✅ Real-time communication engineering using Stream
-✅ Clean folder separation (controllers/routes/models/middleware)
-✅ Proper API handling + caching with TanStack Query
-✅ Authentication security practices with JWT
-✅ Scalable full-stack architecture (MERN)
-✅ Production-ready frontend with Vite + Tailwind
-
-📌 Future Improvements
-
-✅ Media sharing (images/videos/docs)
-
-✅ User profile & settings page
-
-✅ Notifications and online/offline presence
-
-✅ Chat search + pinned messages
-
-✅ Deployment guides (Docker + CI/CD)
 
 👨‍💻 Author
 
